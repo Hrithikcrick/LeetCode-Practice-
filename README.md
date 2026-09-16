@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
