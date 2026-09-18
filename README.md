@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0055-jump-game) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
