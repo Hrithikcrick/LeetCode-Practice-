@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
 | [1470-shuffle-the-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
