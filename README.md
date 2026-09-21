@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [1470-shuffle-the-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
