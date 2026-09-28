@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
@@ -172,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1143-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
