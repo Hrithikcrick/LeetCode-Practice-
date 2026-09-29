@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0012-integer-to-roman) |
+| [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [1470-shuffle-the-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
