@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
