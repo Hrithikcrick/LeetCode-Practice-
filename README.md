@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0070-climbing-stairs) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Combinatorics
 |  |
 | ------- |
