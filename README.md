@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 ## Quicksort
 |  |
