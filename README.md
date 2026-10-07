@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0875-koko-eating-bananas) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
