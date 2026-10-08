@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
