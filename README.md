@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Prefix Sum
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Ordered Set
 |  |
 | ------- |
