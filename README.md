@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0875-koko-eating-bananas) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0070-climbing-stairs) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Simulation
 |  |
 | ------- |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1068-product-sales-analysis-i) |
 | [1527-patients-with-a-condition](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1587-bank-account-summary-ii) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
