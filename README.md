@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0264-ugly-number-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Simulation
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0264-ugly-number-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
