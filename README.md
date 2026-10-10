@@ -231,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1068-product-sales-analysis-i) |
 | [1527-patients-with-a-condition](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
