@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
 ## Bit Manipulation
 |  |
 | ------- |
