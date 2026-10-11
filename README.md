@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## String
 |  |
 | ------- |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
