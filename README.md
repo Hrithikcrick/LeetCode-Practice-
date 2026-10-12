@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1768-merge-strings-alternately) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
 ## Sliding Window
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1768-merge-strings-alternately](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1768-merge-strings-alternately) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
