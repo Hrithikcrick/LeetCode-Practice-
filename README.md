@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0264-ugly-number-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1248-count-number-of-nice-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
