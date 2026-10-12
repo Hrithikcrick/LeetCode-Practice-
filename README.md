@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1507-reformat-date](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1507-reformat-date) |
 | [1768-merge-strings-alternately](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1768-merge-strings-alternately) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
