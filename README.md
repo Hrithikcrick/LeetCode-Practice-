@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0875-koko-eating-bananas](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0875-koko-eating-bananas) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -294,4 +297,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
