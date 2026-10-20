@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0905-sort-array-by-parity) |
 | [1402-reducing-dishes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1402-reducing-dishes) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
