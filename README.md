@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
@@ -327,4 +328,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
