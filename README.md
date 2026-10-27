@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1402-reducing-dishes) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Stack
 |  |
 | ------- |
