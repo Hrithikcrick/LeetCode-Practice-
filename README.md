@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0931-minimum-falling-path-sum) |
