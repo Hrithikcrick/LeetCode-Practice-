@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1507-reformat-date) |
 | [1768-merge-strings-alternately](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1768-merge-strings-alternately) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2565-subsequence-with-the-minimum-score) |
 ## Sliding Window
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2008-maximum-earnings-from-taxi) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/0992-subarrays-with-k-different-integers) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Hrithikcrick/LeetCode-Practice-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Database
 |  |
